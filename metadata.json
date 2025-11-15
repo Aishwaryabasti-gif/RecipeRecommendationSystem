@@ -1,0 +1,7 @@
+{
+  "name": " Food Recommender",
+  "description": "An intelligent food recommendation system powered by the Gemini API. Users can input their cuisine preferences, dietary restrictions, and liked or disliked ingredients to receive personalized dish suggestions.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
